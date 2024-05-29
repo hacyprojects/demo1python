@@ -1,0 +1,10 @@
+.banner{
+     background-color:plum;
+     width:100%;
+
+     padding:100px;
+}
+
+.banner-text{
+    text-align:center;
+}
